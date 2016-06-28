@@ -19,7 +19,7 @@ Note: If you are working from within a proxied network of an organization/instit
 	"directory": "open_event/static/admin/lib"
 }
 ```
-* Modify the file to add proxy and http-proxy properties like this:
+* Modify the file to add "proxy" and "https-proxy" properties like this:
 ```
 {
 	"directory": "open_event/static/admin/lib",
